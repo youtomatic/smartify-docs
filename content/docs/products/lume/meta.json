@@ -1,8 +1,9 @@
 {
-  "title": "LED Controllers",
+  "title": "Lume",
   "pages": [
     "index",
-    "led-controller-cv-rgbpluscct",
-    "led-controller-cc-cct"
+    "lume-cv-rgb-plus",
+    "lume-cv-dim",
+    "lume-cc-cct"
   ]
 }

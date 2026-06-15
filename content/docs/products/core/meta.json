@@ -1,11 +1,11 @@
 {
-  "title": "Gateways & Hubs",
+  "title": "Core",
   "pages": [
     "index",
-    "zigbee-gateway-wired",
-    "zigbee-gateway-matter",
+    "core-lan",
+    "core-matter",
     "convergia",
-    "zigbee-vrv-gateway",
-    "zigbee-dali-gateway"
+    "core-vrv",
+    "core-dali"
   ]
 }

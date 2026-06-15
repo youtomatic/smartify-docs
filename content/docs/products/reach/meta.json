@@ -1,9 +1,9 @@
 {
-  "title": "IR Blasters",
+  "title": "Reach",
   "pages": [
     "index",
-    "ir-blaster-wifi",
-    "irplusrf-blaster-wifi",
-    "ir-blaster-w--analog-screen-temp-and-humidity-sensor-wifi"
+    "reach-ir",
+    "reach-ir-plus",
+    "reach-ir-pro"
   ]
 }
