@@ -3,6 +3,7 @@
   "pages": [
     "index",
     "4-touch-control-panel",
-    "10-touch-control-panel"
+    "10-touch-control-panel",
+    "4-gang-scene-switch"
   ]
 }
