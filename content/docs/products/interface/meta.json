@@ -2,8 +2,8 @@
   "title": "Interface",
   "pages": [
     "index",
-    "interface-toq",
-    "interface-tac",
-    "interface-screens-and-misc"
+    "toq",
+    "tac",
+    "screens-and-misc"
   ]
 }
