@@ -1,4 +1,8 @@
 {
   "title": "Interface (Screens & Misc)",
-  "pages": ["index"]
+  "pages": [
+    "index",
+    "4-touch-control-panel",
+    "10-touch-control-panel"
+  ]
 }
